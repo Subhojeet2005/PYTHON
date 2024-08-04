@@ -1,1 +1,3 @@
 # PYTHON
+Let's start a new journey in PYTHON together from scratch to the master level.........
+Stay tuned 👍
